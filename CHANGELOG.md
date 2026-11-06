@@ -10,6 +10,7 @@
 - **只读探针**（`probe/ --readonly`）：枚举过滤统计、`GetWindowRect` 与 `DWMWA_EXTENDED_FRAME_BOUNDS` 四边差、显示器与 DPI、UAC / 提权窗口、虚拟桌面归属、PowerToys 热键占用。全程未创建、移动、激活任何窗口，未注册热键。
 - **交互探针工程**（P1–P8）：前台激活、命中判定、跨 DPI、枚举与 UWP、原位还原、`.lnk` / `.exe` 拖入、覆盖层框选、全局热键。**已就位但未运行**，默认无参数只打印用法。
 - **单项目文档骨架**：README / AGENTS / DEVELOPMENT / CHANGELOG 四件套 + `docs/`。
+- **工作台导入卡片**（[docs/工作台卡片.md](./docs/工作台卡片.md)）：按「Agent 工作台」批量导入格式生成 1 张任务卡 + 1 张同步卡。
 
 ### 实测结论（修正原调研的推断）
 

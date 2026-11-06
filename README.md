@@ -19,6 +19,7 @@
 |---|---|
 | [docs/调研与方案.md](./docs/调研与方案.md) | 需求拆解 R1–R8、同类方案对比（FancyZones / Groupy / WindowTabs / AquaSnap 等）、逐项机制可行性、技术选型、三阶段计划、风险 |
 | [docs/探针结果与实施计划.md](./docs/探针结果与实施计划.md) | 本机只读实测数据、**被实测推翻的 4 条假设**、待实测清单、P0/P1 模块与验收点 |
+| [docs/工作台卡片.md](./docs/工作台卡片.md) | 供「Agent 工作台」批量导入的任务卡与同步卡（内部流转用） |
 | [probe/README.md](./probe/README.md) | 探针怎么跑、每项看什么数据、通过标准、失败恢复 |
 | [DEVELOPMENT.md](./DEVELOPMENT.md) | 项目概览、架构说明、关键问题与方案（一坑一篇） |
 | [AGENTS.md](./AGENTS.md) | 给 AI / 未来的你：技术栈、关键坑、约定、常用命令 |
