@@ -1,0 +1,27 @@
+# 构建产物
+bin/
+obj/
+out/
+publish/
+dist/
+*.exe
+*.pdb
+*.dll
+*.user
+
+# 临时文件 / 日志
+*.tmp
+*.log
+*.bak
+
+# 编辑器与系统
+.vs/
+.vscode/
+.idea/
+.obsidian/
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 本地配置（可能含机器相关设置）
+*.settings.json
